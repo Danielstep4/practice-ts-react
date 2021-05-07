@@ -1,5 +1,5 @@
 import React from "react";
-import HomePage from "./Components/HomePage";
+import HomePage from "./Pages/HomePage";
 
 const App: React.FC = () => {
   return (
